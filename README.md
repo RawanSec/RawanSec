@@ -24,12 +24,12 @@ incident response skills.
 
 | Skill | Project |
 |---|---|
-| Quantitative Risk Analysis (SLE, ARO, ALE) | [Honeypot-SIEM-Malware-Pipeline](#) |
 | SIEM Log Analysis & Alerting (Kibana) | [Honeypot-SIEM-Malware-Pipeline](#) |
-| Vulnerability Assessment (Nessus, OpenVAS, Nmap, Burp Suite) | [Honeypot-SIEM-Malware-Pipeline](#) |
-| Digital Forensics (Autopsy, LiME, memory acquisition) | [Honeypot-SIEM-Malware-Pipeline](#) |
 | Malware Static Analysis (YARA, PE analysis, entropy) | [Honeypot-SIEM-Malware-Pipeline](#) |
-| Framework Mapping (NIST CSF, MITRE ATT&CK, MITRE CWE, ISO 27001) | [Honeypot-SIEM-Malware-Pipeline](#) |
+| Quantitative Risk Analysis (SLE, ARO, ALE) | University coursework — Risk Assessment & Management |
+| Vulnerability Assessment (Nessus, OpenVAS, Nmap, Burp Suite) | University coursework — Penetration Testing lab |
+| Digital Forensics (Autopsy, LiME, memory acquisition) | University coursework — Digital Forensics & IR lab |
+| Framework Mapping (NIST CSF, MITRE ATT&CK, MITRE CWE, ISO 27001) | Applied across coursework & home lab |
 
 ## 🚀 Projects:
 
@@ -54,4 +54,4 @@ incident response skills.
 
 [![](https://komarev.com/ghpvc/?username=rawan-al-manthri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
