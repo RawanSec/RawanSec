@@ -24,8 +24,8 @@ incident response skills.
 
 | Skill | Project |
 |---|---|
-| SIEM Log Analysis & Alerting (Kibana) | [Honeypot-SIEM-Malware-Pipeline](#) |
-| Malware Static Analysis (YARA, PE analysis, entropy) | [Honeypot-SIEM-Malware-Pipeline](#) |
+| SIEM Log Analysis & Alerting (Kibana) | [Honeypot-SIEM-Malware-Pipeline](https://github.com/RawanSec/Honeypot-SIEM-Malware-Pipeline) |
+| Malware Static Analysis (YARA, PE analysis, entropy) | [Honeypot-SIEM-Malware-Pipeline](https://github.com/RawanSec/Honeypot-SIEM-Malware-Pipeline) |
 | Quantitative Risk Analysis (SLE, ARO, ALE) | University coursework — Risk Assessment & Management |
 | Vulnerability Assessment (Nessus, OpenVAS, Nmap, Burp Suite) | University coursework — Penetration Testing lab |
 | Digital Forensics (Autopsy, LiME, memory acquisition) | University coursework — Digital Forensics & IR lab |
@@ -33,7 +33,7 @@ incident response skills.
 
 ## 🚀 Projects:
 
-- [**Honeypot-SIEM-Malware-Pipeline**](#) — Live AWS honeypot (T-Pot) feeding 
+- [**Honeypot-SIEM-Malware-Pipeline**](https://github.com/RawanSec/Honeypot-SIEM-Malware-Pipeline) — Live AWS honeypot (T-Pot) feeding 
   a custom static malware analysis pipeline into a Kibana SIEM dashboard, 
   with custom detection alerting.
 
